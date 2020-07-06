@@ -1,0 +1,27 @@
+{
+  "name": "burger-hw",
+  "version": "1.0.0",
+  "description": "burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jairomartinez1994/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Jairo Martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jairomartinez1994/burger/issues"
+  },
+  "homepage": "https://github.com/jairomartinez1994/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.5",
+    "mysql": "^2.18.1"
+  }
+}
